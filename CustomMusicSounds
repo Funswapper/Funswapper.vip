@@ -1,0 +1,2 @@
+local	MusicSounds = {};
+return MusicSounds
