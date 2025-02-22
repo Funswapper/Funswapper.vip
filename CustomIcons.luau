@@ -51,6 +51,5 @@ local CustomIcons = {
   ["USP.png"] = "https://raw.githubusercontent.com/Funswapper/Funswapper.vip/refs/heads/main/CustomAssets/USP.png";
   ["Unknown.png"] = "https://raw.githubusercontent.com/Funswapper/Funswapper.vip/refs/heads/main/CustomAssets/Unknown.png";
   ["XM.png"] = "https://raw.githubusercontent.com/Funswapper/Funswapper.vip/refs/heads/main/CustomAssets/XM.png";
-}
-
+};
 return CustomIcons
