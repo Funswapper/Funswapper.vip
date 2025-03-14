@@ -1,13 +1,5 @@
 local	MusicSounds = {
 			{
-				SoundName = "Cartoon Jéja On On feat Daniel Levi Electronic Pop NCS Copyright Free Music.mp3",
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/Cartoon%20J%C3%A9ja%20%20On%20%20On%20feat%20Daniel%20Levi%20%20Electronic%20Pop%20%20NCS%20%20Copyright%20Free%20Music.mp3"
-			};
-			{
-				SoundName = "Cartoon Jéja Why We Lose feat Coleman Trapp DnB NCS Copyright Free Music.mp3",
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/Cartoon%20J%C3%A9ja%20%20Why%20We%20Lose%20feat%20Coleman%20Trapp%20%20DnB%20%20NCS%20%20Copyright%20Free%20Music.mp3"
-			};
-			{
 				SoundName = "DEAF KEV Invincible Glitch Hop NCS Copyright Free Music.mp3",
 				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/DEAF%20KEV%20%20Invincible%20%20Glitch%20Hop%20%20NCS%20%20Copyright%20Free%20Music.mp3"
 			};
