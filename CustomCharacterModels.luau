@@ -52,19 +52,24 @@ local	CharacterModels = {
 		CharacterID = 23239501;
 	};
 	{
-		CharacterName = "MidnightKrystal";
+		CharacterName = "Spy_Evan";
 		CharacterType = "User";
-		CharacterID = 47939131;
+		CharacterID = 242220502;
 	};
 	{
-		CharacterName = "MidnightKrystal";
+		CharacterName = "Danny123d";
 		CharacterType = "User";
-		CharacterID = 47939131;
+		CharacterID = 17013914;
 	};
 	{
-		CharacterName = "MidnightKrystal";
-		CharacterType = "User";
-		CharacterID = 47939131;
+		CharacterName = "Ace Pilot";
+		CharacterType = "Model";
+		CharacterID = 90682677845249;
+	};
+	{
+		CharacterName = "Red Panda";
+		CharacterType = "Model";
+		CharacterID = 92292371033773;
 	};
 }
 
