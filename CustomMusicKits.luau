@@ -74,60 +74,6 @@ local MusicKits = {
 				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/Flashbang%20Dance_StartRound2.mp3";
 			};
 		}
-	};
-	{
-		KitName = "Juice Wrld";
-		KitData = {
-			{
-				SoundName = "Mvp.mp3";
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/Flashbang%20Dance_Mvp.mp3";
-			};
-
-			{
-				SoundName = "Bomb Planted.mp3";
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/JuiceWrld_Bomb_Planted.MP3";
-			};
-
-			{
-				SoundName = "Bomb 10 Seconds.mp3";
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/JuiceWrld_Bomb_10_Seconds.MP3";
-			};
-
-			{
-				SoundName = "Choose Team.mp3";
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/JuiceWrld_Choose_Team.MP3";
-			};
-
-			{
-				SoundName = "Death Cam.mp3";
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/JuiceWrld_Death_Cam.MP3";
-			};
-
-			{
-				SoundName = "Mvp.mp3";
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/JuiceWrld_Mvp.MP3";
-			};
-
-			{
-				SoundName = "Round Lost.mp3";
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/JuiceWrld_Round_Lost.MP3";
-			};
-
-			{
-				SoundName = "Round Won.mp3";
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/JuiceWrld_Round_Won.MP3";
-			};
-
-			{
-				SoundName = "Start Action1.mp3";
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/JuiceWrld_Start_Action_1.MP3";
-			};
-
-			{
-				SoundName = "Start Round1.mp3";
-				SoundLink = "https://github.com/Funswapper/Funswapper.vip/raw/refs/heads/main/CustomAssets/JuiceWrld_Start_Round_1.MP3";
-			};
-		}
 	}
 }
 
