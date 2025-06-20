@@ -61,6 +61,10 @@ local	CharacterModels = {
 		CharacterType = "User";
 		CharacterID = 17013914;
 	};
+		CharacterName = "He_S0Yam";
+		CharacterType = "User";
+		CharacterID = 5189965300;
+	};
 	{
 		CharacterName = "Ace Pilot";
 		CharacterType = "Model";
