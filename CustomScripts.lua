@@ -123,6 +123,48 @@ local NewSection = ScriptsTab:Section({Name = "Cool section", Side = "Left"}) do
 end
 ]],
     },
+    {
+        ScriptName = "Notification Creator.luau",
+        ScriptCode = [[local FSFuncs = getgenv().FunswapperLibrary
+         local ScriptsTab = FSFuncs.ScriptsTab
+         
+         local NewSection = ScriptsTab:Section({ Name = "Notification Creator", Side = "Left" })
+         do
+             local NewLabel = NewSection:Label({
+                 Text = "Create a notification with custom text and duration",
+                 Side = "Left",
+             })
+         
+             local NotificationText = NewSection:Textbox({
+                 Name = "Notification Text",
+                 Flag = "",
+                 Side = "Left",
+                 Value = "Hello World!",
+                 Callback = function() end,
+             })
+         
+             local NotificationSlider = NewSection:Slider({
+                 Name = "Duration",
+                 Flag = "",
+                 Side = "Left",
+                 Min = 1,
+                 Max = 20,
+                 Value = 5,
+                 Precise = 1,
+                 Unit = "s",
+                 Callback = function() end,
+             })
+         
+             local CreateNotificationButton = NewSection:Button({
+                 Name = "Create Notification",
+                 Side = "Left",
+                 Callback = function()
+                     FSFuncs.CreateNotification(NotificationText.Value, tonumber(NotificationSlider.Value))
+                 end,
+             })
+         end
+]],
+    },
 }
 
 return Scripts
